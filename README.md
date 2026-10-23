@@ -62,8 +62,13 @@ Na migração, as imagens dos artigos antigos continuaram apontando para o WordP
 
 ## Stack
 
-Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · next-intl · Supabase (Postgres, Auth, Storage, RLS) · Zod · Framer Motion · three.js / globe.gl · PDF.js · Anthropic SDK · OpenAI · Vercel · Docker
+Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · next-intl · Supabase (Postgres, Auth, Storage, RLS) · Zod · Framer Motion · three.js / globe.gl · PDF.js · Anthropic SDK · OpenAI · Docker Swarm · Traefik
+
+## Outros cases
+
+- [E-commerce da 4Life Nutrition](https://github.com/Dowgg18/4life-nutrition-showcase): loja com código próprio, do checkout à nota fiscal.
+- [Creator Army da 4Life](https://github.com/Dowgg18/4life-creators-showcase): programa de influenciadores com cupom e comissão apurada sozinha.
 
 ---
 
-Douglas Domingos · [github.com/Dowgg18](https://github.com/Dowgg18)
+Douglas Domingos · [github.com/Dowgg18](https://github.com/Dowgg18) · [LinkedIn](https://www.linkedin.com/in/douglas-c-domingos/)
